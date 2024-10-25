@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pakkapon Phongthawee (Pure) @pureexe
-- 👀 I’m interested in Neural Rendering / View Synthesis such as [NeRF](https://github.com/bmild/nerf)
+- 👀 I’m interested in Computer Graphic, Neural Rendering / View Synthesis such as [NeRF](https://github.com/bmild/nerf), Lighting such as [DiffusionLight](https://diffusionlight.github.io/)
 - 🌱 I’m currently learning Neural Rendering / Computer vision Machine learning.
 - 📫 Reach me on: [facebook](https://www.facebook.com/pureexe) or just tagged me (@pureexe) on Github
 
